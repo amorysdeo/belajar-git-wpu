@@ -3,3 +3,5 @@ ini contoh branch
 nambah baris juga
 
 trus nambah lagi baris ketiga
+
+ngedit di dua

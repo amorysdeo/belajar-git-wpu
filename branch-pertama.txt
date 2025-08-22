@@ -1,7 +1,9 @@
 ini contoh branch
 
-nambah baris juga
+nambah baris
 
 trus nambah lagi baris ketiga
+
+aku ngedit dari tiga
 
 ngedit dari dua
